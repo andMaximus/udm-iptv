@@ -102,7 +102,7 @@ multicast IPTV traffic between WAN and LAN.
 ### Installation
 SSH into your machine and execute the commands below in UniFi OS (not in UbiOS).
 ```bash
-sh -c "$(curl https://raw.githubusercontent.com/fabianishere/udm-iptv/master/install.sh -sSf)"
+sh -c "$(curl https://raw.githubusercontent.com/andMaximus/udm-iptv/master/install.sh -sSf)"
 ```
 
 This script will install the `udm-iptv` package onto your device.
@@ -203,8 +203,8 @@ instructions before opening a discussion.
    reported before.
 
 ### Getting Help or Reporting an Issue
-If your issues persist, you may seek help on our [Discussions](https://github.com/fabianishere/udm-iptv/discussions) page.
-Please keep [GitHub Issues](https://github.com/fabianishere/udm-iptv/issues)
+If your issues persist, you may seek help on our [Discussions](https://github.com/andMaximus/udm-iptv/discussions) page.
+Please keep [GitHub Issues](https://github.com/andMaximus/udm-iptv/issues)
 only for bugs or feature requests related to the project (no configuration-related issues).
 
 When opening a discussion or reporting an issue, **please share the name of your
@@ -217,9 +217,9 @@ udm-iptv diagnose
 Questions, suggestions and contributions are welcome and appreciated!
 You can contribute in various meaningful ways:
 
-* Report a bug through [GitHub issues](https://github.com/fabianishere/udm-iptv/issues).
+* Report a bug through [GitHub issues](https://github.com/andMaximus/udm-iptv/issues).
 * Contribute improvements to the documentation (e.g., configuration for other ISPs).
-* Help answer questions on our [Discussions](https://github.com/fabianishere/udm-iptv/discussions) page.
+* Help answer questions on our [Discussions](https://github.com/andMaximus/udm-iptv/discussions) page.
 
 ## License
 The code is released under the GPLv2 license. See [COPYING.txt](/COPYING.txt).
